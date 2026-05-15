@@ -1,0 +1,15 @@
+{
+  "4C_M": {
+    "M_inf": 28355.4,
+    "dM_inf": 6089.9,
+    "tau": 71.5,
+    "dtau": 18.5,
+    "T_end_days": 32.0,
+    "Vw_mL": 38.33,
+    "m_s_g": 0.5,
+    "rho_s_g_cm3": 1.3,
+    "N_valid_start": 1,
+    "log_kA_low": 1.814,
+    "log_kA_high": 3.788
+  }
+}

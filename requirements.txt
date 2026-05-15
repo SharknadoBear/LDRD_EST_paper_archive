@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+matplotlib
+scikit-optimize
+cmocean
+ipython
+jupyterlab
+nbclient
+nbformat
+ipykernel
